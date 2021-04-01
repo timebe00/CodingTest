@@ -1,7 +1,6 @@
-package level1;
+package level1.IntDescending;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 //  정수 내림차순으로 배치하기
 public class IntDescending {
