@@ -1,3 +1,4 @@
+# 수박수박수박수박수박수?
 def solution(n):
     answer = ''
     for i in range(n//2):
